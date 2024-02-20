@@ -6,6 +6,7 @@ function App() {
     <div>
       <Header />
       <UserInput />
+      {/*component for outputing the results will go here*/}
     </div>
   );
 }
