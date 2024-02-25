@@ -14,7 +14,6 @@ function App() {
 
   const inputIsValid = userInput.duration >= 1;
 
-  //Luka
 
   function handleChange(inputIdentifier, newValue) {
     setUserInput((prevUserInput) => {
